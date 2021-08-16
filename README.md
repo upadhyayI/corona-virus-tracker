@@ -18,8 +18,3 @@ Libraries used:
 Relevant links: 
 
 ➤ The data for our app is coming from The COVID Tracking Project: https://covidtracking.com/api
-
-➤ Prevention and treatment for COVID-19: https://g.co/kgs/gkeCji
-
-➤ 3rd party apps not allowed on Google Play: https://play.google.com/store/search?...
-
