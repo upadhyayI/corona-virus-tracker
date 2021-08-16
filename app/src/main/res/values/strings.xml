@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">corona virus tracker</string>
+    <string name="app_description">COVID-19 cases per day</string>
+</resources>
